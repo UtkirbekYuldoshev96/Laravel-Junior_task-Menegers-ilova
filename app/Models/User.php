@@ -13,6 +13,7 @@ class User extends Authenticatable
 
     /**
      * The attributes that are mass assignable.
+     * Laravel-ni boshlab oldik
      *
      * @var array<int, string>
      */
